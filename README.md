@@ -12,6 +12,6 @@
 ```
 # Deploy Heroku
 ### Deploying To Heroku ⚙
-[Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/YakkoRasZ14/Alphabot)
+[Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/YakkoRasZ14/selfbot-xcode)
 
 ## Jangan Lupa Follow IG : https://www.instagram.com/freeconfigid
