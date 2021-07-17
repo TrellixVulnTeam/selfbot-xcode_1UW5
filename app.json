@@ -1,0 +1,14 @@
+{
+  "name": "selfbot-xcode",
+  "description": "Selfbot-xcode for Whatsapp",
+  "repository": "https://github.com/YakkoRasZ14/selfbot-xcode",
+  "logo": "https://i.ibb.co/3rKxNYK/xcode.jpg",
+  "keywords": [
+    "whatsbot",
+    "whatsapp-selfbot",
+    "whatsapp-bot",
+    "whatsapp-userbot",
+    "whatsapp"
+  ],
+  "stack": "container"
+  }
